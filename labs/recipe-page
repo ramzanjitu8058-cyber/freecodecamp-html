@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <html>
+<head>
+  <title>Recipe for preparing white rice</title>
+  <meta charset="UTF-8">
+</head>
+   
+<body> 
+  <h1>Recipe for preparing white rice</h1>
+     <p>White rice is prepared with different types of stews.</p>
+      <h2>Ingredients</h2>
+      <ul><li>1 cup of rice.</li><li>2cups of water.</li><li>1 tablespoon of oil.</li><li>A pinch of salt.</li></ul>
+    <h2>Instructions</h2>
+      <ol><li>Rinse the rice until the water becomes clearer.</li><li>Put a pot on medium heat.</li><li>Add the rice  and stir it for 10 seconds.</li><li>Pour 2 cups of rice and a pinch of salt.</li><li>Pour the oil and cover the pot.</li><li>Turn off the heat and let it sit covered for 10 minutes.</li></ol>
+ <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg"  alt="A plate of white rice"> 
+ </body>  
+ </html> 
